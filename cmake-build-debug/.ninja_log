@@ -1,0 +1,8 @@
+# ninja log v6
+147	1340	7554031686410735	CMakeFiles/TeaxsHoldem.dir/startup.cpp.obj	2380d4ee0c724286
+184	1429	7554031686770920	CMakeFiles/TeaxsHoldem.dir/dealer.cpp.obj	ba1262edccb94b88
+61	1464	7554031685546113	CMakeFiles/TeaxsHoldem.dir/main.cpp.obj	7f13d69bb70ece8f
+246	1536	7554031687398105	CMakeFiles/TeaxsHoldem.dir/bot.cpp.obj	28cff1835a5d46b1
+207	1547	7554031687003959	CMakeFiles/TeaxsHoldem.dir/player.cpp.obj	a7ff1bc473c51af7
+166	1887	7554031686593139	CMakeFiles/TeaxsHoldem.dir/cards.cpp.obj	7a96b8773604e7e
+1888	2799	7554031703813809	TeaxsHoldem.exe	da06b6f617493e1

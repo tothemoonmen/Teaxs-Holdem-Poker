@@ -1,0 +1,3 @@
+C:/Users/AMYES/CLionProjects/Inclass2/26/TeaxsHoldem/cmake-build-debug/CMakeFiles/TeaxsHoldem.dir
+C:/Users/AMYES/CLionProjects/Inclass2/26/TeaxsHoldem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AMYES/CLionProjects/Inclass2/26/TeaxsHoldem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
